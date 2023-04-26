@@ -3,6 +3,6 @@ File "Copy only rows with data.xlsm" contains a macro that will combine multiple
 
 File "CopyRangeFromMultiWorksheets().txt" is the plain text of the macro.
 
-Make sure to have Developer ribbon showing in Excel (Options -> Customize Ribbon -> Check the Developer box).
+Make sure to have Developer ribbon showing in Excel so you can use macros (Options -> Customize Ribbon -> Check the Developer box).
 
 I wish I could find the original macro that I edited for my purposes to credit the author.
